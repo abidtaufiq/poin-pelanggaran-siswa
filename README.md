@@ -4,12 +4,12 @@
 # Tampilan Halaman Aplikasi
 ![ss](assets/ss2.png)
 
-#login admin
+## Login admin
 localhost/pelanggaran/login/
 user: admin
 password: admin
 
-#login guru
+## Login guru
 localhost/pelanggaran/login_guru/
 user: guru
 password: guru
